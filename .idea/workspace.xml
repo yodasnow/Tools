@@ -4,6 +4,7 @@
     <list default="true" id="6f813240-b423-4b48-8636-072474c0341c" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Tools/Tools.class" afterPath="$PROJECT_DIR$/out/production/Tools/Tools.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Tools/ToolsTester.class" afterPath="$PROJECT_DIR$/out/production/Tools/ToolsTester.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Tools.java" afterPath="$PROJECT_DIR$/src/Tools.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ToolsTester.java" afterPath="$PROJECT_DIR$/src/ToolsTester.java" />
@@ -21,28 +22,46 @@
       <file leaf-file-name="Tools.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Tools.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="503">
-              <caret line="41" column="17" lean-forward="false" selection-start-line="41" selection-start-column="17" selection-end-line="41" selection-end-column="17" />
-              <folding />
+            <state relative-caret-position="555">
+              <caret line="208" column="0" lean-forward="false" selection-start-line="208" selection-start-column="0" selection-end-line="208" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="docComment;method#bubbleSort#0;class#Tools#0" expanded="false" />
+                <element signature="method#bubbleSort#0;class#Tools#0" expanded="false" />
+                <element signature="docComment;method#selectionSort#0;class#Tools#0" expanded="false" />
+                <element signature="method#selectionSort#0;class#Tools#0" expanded="false" />
+                <element signature="docComment;method#mergeSort#0;class#Tools#0" expanded="false" />
+                <element signature="method#mergeSort#0;class#Tools#0" expanded="false" />
+                <element signature="docComment;method#merge#0;class#Tools#0" expanded="false" />
+                <element signature="method#merge#0;class#Tools#0" expanded="false" />
+                <element signature="docComment;method#insertionSort#0;class#Tools#0" expanded="false" />
+                <element signature="method#insertionSort#0;class#Tools#0" expanded="false" />
+                <element signature="docComment;method#randomListGenerator#0;class#Tools#0" expanded="false" />
+                <element signature="method#randomListGenerator#0;class#Tools#0" expanded="false" />
+                <element signature="docComment;method#isPalindrome#0;class#Tools#0" expanded="false" />
+                <element signature="method#isPalindrome#0;class#Tools#0" expanded="false" />
+                <element signature="docComment;method#linearSearch#0;class#Tools#0" expanded="false" />
+                <element signature="method#linearSearch#0;class#Tools#0" expanded="false" />
+                <element signature="docComment;method#binarySearch#0;class#Tools#0" expanded="false" />
+                <element signature="method#binarySearch#0;class#Tools#0" expanded="false" />
+                <element signature="docComment;method#reverse#0;class#Tools#0" expanded="false" />
+                <element signature="method#reverse#0;class#Tools#0" expanded="false" />
+                <element signature="docComment;method#arrayListToIntegerArray#0;class#Tools#0" expanded="false" />
+                <element signature="method#arrayListToIntegerArray#0;class#Tools#0" expanded="false" />
+                <element signature="docComment;method#integerArrayToArrayList#0;class#Tools#0" expanded="false" />
+                <element signature="method#integerArrayToArrayList#0;class#Tools#0" expanded="false" />
+                <element signature="docComment;method#restEnd#0;class#Tools#0" expanded="false" />
+                <element signature="method#restEnd#0;class#Tools#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ToolsTester.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="ToolsTester.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ToolsTester.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DualPivotQuicksort.java" pinned="false" current-in-tab="true">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/DualPivotQuicksort.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1685">
-              <caret line="75" column="45" lean-forward="false" selection-start-line="75" selection-start-column="45" selection-end-line="75" selection-end-column="45" />
+            <state relative-caret-position="392">
+              <caret line="38" column="58" lean-forward="false" selection-start-line="38" selection-start-column="58" selection-end-line="38" selection-end-column="58" />
               <folding />
             </state>
           </provider>
@@ -101,10 +120,10 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="Scratches" />
       <pane id="PackagesPane" />
+      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -125,6 +144,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="preferences.externalResources" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -259,13 +282,14 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32958803" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4144819" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -274,13 +298,12 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -289,15 +312,97 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="5" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Tools.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="41" column="17" lean-forward="false" selection-start-line="41" selection-start-column="17" selection-end-line="41" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="docComment;method#bubbleSort#0;class#Tools#0" expanded="false" />
+            <element signature="method#bubbleSort#0;class#Tools#0" expanded="false" />
+            <element signature="docComment;method#selectionSort#0;class#Tools#0" expanded="false" />
+            <element signature="method#selectionSort#0;class#Tools#0" expanded="false" />
+            <element signature="docComment;method#mergeSort#0;class#Tools#0" expanded="false" />
+            <element signature="method#mergeSort#0;class#Tools#0" expanded="false" />
+            <element signature="docComment;method#merge#0;class#Tools#0" expanded="false" />
+            <element signature="method#merge#0;class#Tools#0" expanded="false" />
+            <element signature="docComment;method#insertionSort#0;class#Tools#0" expanded="false" />
+            <element signature="method#insertionSort#0;class#Tools#0" expanded="false" />
+            <element signature="docComment;method#randomListGenerator#0;class#Tools#0" expanded="false" />
+            <element signature="method#randomListGenerator#0;class#Tools#0" expanded="false" />
+            <element signature="docComment;method#isPalindrome#0;class#Tools#0" expanded="false" />
+            <element signature="method#isPalindrome#0;class#Tools#0" expanded="false" />
+            <element signature="docComment;method#linearSearch#0;class#Tools#0" expanded="false" />
+            <element signature="method#linearSearch#0;class#Tools#0" expanded="false" />
+            <element signature="docComment;method#binarySearch#0;class#Tools#0" expanded="false" />
+            <element signature="method#binarySearch#0;class#Tools#0" expanded="false" />
+            <element signature="docComment;method#reverse#0;class#Tools#0" expanded="false" />
+            <element signature="method#reverse#0;class#Tools#0" expanded="false" />
+            <element signature="docComment;method#arrayListToIntegerArray#0;class#Tools#0" expanded="false" />
+            <element signature="method#arrayListToIntegerArray#0;class#Tools#0" expanded="false" />
+            <element signature="docComment;method#integerArrayToArrayList#0;class#Tools#0" expanded="false" />
+            <element signature="method#integerArrayToArrayList#0;class#Tools#0" expanded="false" />
+            <element signature="docComment;method#restEnd#0;class#Tools#0" expanded="false" />
+            <element signature="method#restEnd#0;class#Tools#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ToolsTester.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/DualPivotQuicksort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1125">
+          <caret line="75" column="45" lean-forward="false" selection-start-line="75" selection-start-column="45" selection-end-line="75" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tools.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="24" lean-forward="false" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="docComment;method#bubbleSort#0;class#Tools#0" expanded="false" />
+            <element signature="method#bubbleSort#0;class#Tools#0" expanded="false" />
+            <element signature="docComment;method#selectionSort#0;class#Tools#0" expanded="false" />
+            <element signature="method#selectionSort#0;class#Tools#0" expanded="false" />
+            <element signature="docComment;method#mergeSort#0;class#Tools#0" expanded="false" />
+            <element signature="method#mergeSort#0;class#Tools#0" expanded="false" />
+            <element signature="docComment;method#merge#0;class#Tools#0" expanded="false" />
+            <element signature="method#merge#0;class#Tools#0" expanded="false" />
+            <element signature="docComment;method#insertionSort#0;class#Tools#0" expanded="false" />
+            <element signature="method#insertionSort#0;class#Tools#0" expanded="false" />
+            <element signature="docComment;method#randomListGenerator#0;class#Tools#0" expanded="false" />
+            <element signature="method#randomListGenerator#0;class#Tools#0" expanded="false" />
+            <element signature="docComment;method#isPalindrome#0;class#Tools#0" expanded="false" />
+            <element signature="method#isPalindrome#0;class#Tools#0" expanded="false" />
+            <element signature="docComment;method#linearSearch#0;class#Tools#0" expanded="false" />
+            <element signature="method#linearSearch#0;class#Tools#0" expanded="false" />
+            <element signature="docComment;method#binarySearch#0;class#Tools#0" expanded="false" />
+            <element signature="method#binarySearch#0;class#Tools#0" expanded="false" />
+            <element signature="docComment;method#reverse#0;class#Tools#0" expanded="false" />
+            <element signature="method#reverse#0;class#Tools#0" expanded="false" />
+            <element signature="docComment;method#arrayListToIntegerArray#0;class#Tools#0" expanded="false" />
+            <element signature="method#arrayListToIntegerArray#0;class#Tools#0" expanded="false" />
+            <element signature="docComment;method#integerArrayToArrayList#0;class#Tools#0" expanded="false" />
+            <element signature="method#integerArrayToArrayList#0;class#Tools#0" expanded="false" />
+            <element signature="docComment;method#restEnd#0;class#Tools#0" expanded="false" />
+            <element signature="method#restEnd#0;class#Tools#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -329,7 +434,35 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="22" column="60" lean-forward="false" selection-start-line="22" selection-start-column="60" selection-end-line="22" selection-end-column="60" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="docComment;method#bubbleSort#0;class#Tools#0" expanded="false" />
+            <element signature="method#bubbleSort#0;class#Tools#0" expanded="false" />
+            <element signature="docComment;method#selectionSort#0;class#Tools#0" expanded="false" />
+            <element signature="method#selectionSort#0;class#Tools#0" expanded="false" />
+            <element signature="docComment;method#mergeSort#0;class#Tools#0" expanded="false" />
+            <element signature="method#mergeSort#0;class#Tools#0" expanded="false" />
+            <element signature="docComment;method#merge#0;class#Tools#0" expanded="false" />
+            <element signature="method#merge#0;class#Tools#0" expanded="false" />
+            <element signature="docComment;method#insertionSort#0;class#Tools#0" expanded="false" />
+            <element signature="method#insertionSort#0;class#Tools#0" expanded="false" />
+            <element signature="docComment;method#randomListGenerator#0;class#Tools#0" expanded="false" />
+            <element signature="method#randomListGenerator#0;class#Tools#0" expanded="false" />
+            <element signature="docComment;method#isPalindrome#0;class#Tools#0" expanded="false" />
+            <element signature="method#isPalindrome#0;class#Tools#0" expanded="false" />
+            <element signature="docComment;method#linearSearch#0;class#Tools#0" expanded="false" />
+            <element signature="method#linearSearch#0;class#Tools#0" expanded="false" />
+            <element signature="docComment;method#binarySearch#0;class#Tools#0" expanded="false" />
+            <element signature="method#binarySearch#0;class#Tools#0" expanded="false" />
+            <element signature="docComment;method#reverse#0;class#Tools#0" expanded="false" />
+            <element signature="method#reverse#0;class#Tools#0" expanded="false" />
+            <element signature="docComment;method#arrayListToIntegerArray#0;class#Tools#0" expanded="false" />
+            <element signature="method#arrayListToIntegerArray#0;class#Tools#0" expanded="false" />
+            <element signature="docComment;method#integerArrayToArrayList#0;class#Tools#0" expanded="false" />
+            <element signature="method#integerArrayToArrayList#0;class#Tools#0" expanded="false" />
+            <element signature="docComment;method#restEnd#0;class#Tools#0" expanded="false" />
+            <element signature="method#restEnd#0;class#Tools#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -345,7 +478,35 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="docComment;method#bubbleSort#0;class#Tools#0" expanded="false" />
+            <element signature="method#bubbleSort#0;class#Tools#0" expanded="false" />
+            <element signature="docComment;method#selectionSort#0;class#Tools#0" expanded="false" />
+            <element signature="method#selectionSort#0;class#Tools#0" expanded="false" />
+            <element signature="docComment;method#mergeSort#0;class#Tools#0" expanded="false" />
+            <element signature="method#mergeSort#0;class#Tools#0" expanded="false" />
+            <element signature="docComment;method#merge#0;class#Tools#0" expanded="false" />
+            <element signature="method#merge#0;class#Tools#0" expanded="false" />
+            <element signature="docComment;method#insertionSort#0;class#Tools#0" expanded="false" />
+            <element signature="method#insertionSort#0;class#Tools#0" expanded="false" />
+            <element signature="docComment;method#randomListGenerator#0;class#Tools#0" expanded="false" />
+            <element signature="method#randomListGenerator#0;class#Tools#0" expanded="false" />
+            <element signature="docComment;method#isPalindrome#0;class#Tools#0" expanded="false" />
+            <element signature="method#isPalindrome#0;class#Tools#0" expanded="false" />
+            <element signature="docComment;method#linearSearch#0;class#Tools#0" expanded="false" />
+            <element signature="method#linearSearch#0;class#Tools#0" expanded="false" />
+            <element signature="docComment;method#binarySearch#0;class#Tools#0" expanded="false" />
+            <element signature="method#binarySearch#0;class#Tools#0" expanded="false" />
+            <element signature="docComment;method#reverse#0;class#Tools#0" expanded="false" />
+            <element signature="method#reverse#0;class#Tools#0" expanded="false" />
+            <element signature="docComment;method#arrayListToIntegerArray#0;class#Tools#0" expanded="false" />
+            <element signature="method#arrayListToIntegerArray#0;class#Tools#0" expanded="false" />
+            <element signature="docComment;method#integerArrayToArrayList#0;class#Tools#0" expanded="false" />
+            <element signature="method#integerArrayToArrayList#0;class#Tools#0" expanded="false" />
+            <element signature="docComment;method#restEnd#0;class#Tools#0" expanded="false" />
+            <element signature="method#restEnd#0;class#Tools#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -357,37 +518,61 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tools.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="503">
-          <caret line="41" column="17" lean-forward="false" selection-start-line="41" selection-start-column="17" selection-end-line="41" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ToolsTester.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/Arrays.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="273">
           <caret line="143" column="22" lean-forward="false" selection-start-line="143" selection-start-column="22" selection-end-line="143" selection-end-column="22" />
-          <folding>
-            <element signature="e#5027#5028#0" expanded="true" />
-            <element signature="e#5098#5099#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/DualPivotQuicksort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1685">
+        <state relative-caret-position="15">
           <caret line="75" column="45" lean-forward="false" selection-start-line="75" selection-start-column="45" selection-end-line="75" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tools.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="208" column="0" lean-forward="false" selection-start-line="208" selection-start-column="0" selection-end-line="208" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="docComment;method#bubbleSort#0;class#Tools#0" expanded="false" />
+            <element signature="method#bubbleSort#0;class#Tools#0" expanded="false" />
+            <element signature="docComment;method#selectionSort#0;class#Tools#0" expanded="false" />
+            <element signature="method#selectionSort#0;class#Tools#0" expanded="false" />
+            <element signature="docComment;method#mergeSort#0;class#Tools#0" expanded="false" />
+            <element signature="method#mergeSort#0;class#Tools#0" expanded="false" />
+            <element signature="docComment;method#merge#0;class#Tools#0" expanded="false" />
+            <element signature="method#merge#0;class#Tools#0" expanded="false" />
+            <element signature="docComment;method#insertionSort#0;class#Tools#0" expanded="false" />
+            <element signature="method#insertionSort#0;class#Tools#0" expanded="false" />
+            <element signature="docComment;method#randomListGenerator#0;class#Tools#0" expanded="false" />
+            <element signature="method#randomListGenerator#0;class#Tools#0" expanded="false" />
+            <element signature="docComment;method#isPalindrome#0;class#Tools#0" expanded="false" />
+            <element signature="method#isPalindrome#0;class#Tools#0" expanded="false" />
+            <element signature="docComment;method#linearSearch#0;class#Tools#0" expanded="false" />
+            <element signature="method#linearSearch#0;class#Tools#0" expanded="false" />
+            <element signature="docComment;method#binarySearch#0;class#Tools#0" expanded="false" />
+            <element signature="method#binarySearch#0;class#Tools#0" expanded="false" />
+            <element signature="docComment;method#reverse#0;class#Tools#0" expanded="false" />
+            <element signature="method#reverse#0;class#Tools#0" expanded="false" />
+            <element signature="docComment;method#arrayListToIntegerArray#0;class#Tools#0" expanded="false" />
+            <element signature="method#arrayListToIntegerArray#0;class#Tools#0" expanded="false" />
+            <element signature="docComment;method#integerArrayToArrayList#0;class#Tools#0" expanded="false" />
+            <element signature="method#integerArrayToArrayList#0;class#Tools#0" expanded="false" />
+            <element signature="docComment;method#restEnd#0;class#Tools#0" expanded="false" />
+            <element signature="method#restEnd#0;class#Tools#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ToolsTester.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="38" column="58" lean-forward="false" selection-start-line="38" selection-start-column="58" selection-end-line="38" selection-end-column="58" />
           <folding />
         </state>
       </provider>
@@ -395,9 +580,80 @@
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Tools</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
           <splitter-proportions>
             <option name="proportions">
               <list>
